@@ -1,0 +1,9 @@
+[Core]
+Name = showTests 
+Module = showTests 
+
+[Documentation]
+Author = :) 
+Version = 0.1
+Website = http://pavilion.org
+Description = Display available testing suites/benchmarks 
